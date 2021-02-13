@@ -1,5 +1,5 @@
-# Basic-Spam-BOT
+# Basic Spam BOT
 
-**Basic Spam bot**
+**Software for spamming in C#**
 
 ![ERROR](https://i.imgur.com/JhGkAW4.png)
