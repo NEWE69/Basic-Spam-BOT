@@ -2,4 +2,4 @@
 
 **Software for spamming in C#**
 
-![ERROR](https://i.imgur.com/JhGkAW4.png)
+![ERROR](https://i.imgur.com/8itbIY9.png)
